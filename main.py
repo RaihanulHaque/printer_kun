@@ -44,7 +44,7 @@ def analyze_pdf(pdf_path):
     return results
 
 # Example usage:
-pdf_file = "/Users/rahi/Code/printer_kun/Lab 01.pdf"  # Replace with your PDF file path
+pdf_file = "/home/rahi/Code/printer_kun/files/pdfs/Lab 01.pdf"  # Replace with your PDF file path
 cmyk_results = analyze_pdf(pdf_file)
 # Save results to a JSON file
 with open("cmyk_results.json", "w") as f:

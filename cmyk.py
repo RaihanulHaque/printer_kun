@@ -32,7 +32,7 @@ def rgb_to_cmyk(image):
     }
 
 
-image_path = "/Users/rahi/Code/printer_kun/ng.png"
+image_path = "/home/rahi/Code/printer_kun/files/images/black.png"
 # pdf_path = "/Users/rahi/Code/printer_kun/Lab 01.pdf"
 image = Image.open(image_path)
 cmyk_distribution = rgb_to_cmyk(image)

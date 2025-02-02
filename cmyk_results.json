@@ -2,79 +2,79 @@
     "Page 1": {
         "cyan": 0.93,
         "magenta": 0.26,
-        "yellow": 0.58,
+        "yellow": 0.57,
         "black": 2.74
     },
     "Page 2": {
         "cyan": 0.0,
         "magenta": 0.0,
         "yellow": 0.0,
-        "black": 3.96
+        "black": 4.06
     },
     "Page 3": {
         "cyan": 1.27,
         "magenta": 0.56,
         "yellow": 1.12,
-        "black": 5.92
+        "black": 5.99
     },
     "Page 4": {
         "cyan": 0.33,
         "magenta": 0.61,
-        "yellow": 0.86,
-        "black": 4.98
+        "yellow": 0.85,
+        "black": 5.07
     },
     "Page 5": {
-        "cyan": 0.35,
+        "cyan": 0.34,
         "magenta": 0.92,
         "yellow": 1.25,
-        "black": 4.84
+        "black": 4.95
     },
     "Page 6": {
-        "cyan": 0.16,
+        "cyan": 0.15,
         "magenta": 1.18,
-        "yellow": 1.85,
-        "black": 5.26
+        "yellow": 1.86,
+        "black": 5.37
     },
     "Page 7": {
         "cyan": 0.51,
-        "magenta": 1.38,
-        "yellow": 1.7,
-        "black": 7.7
+        "magenta": 1.37,
+        "yellow": 1.69,
+        "black": 7.77
     },
     "Page 8": {
-        "cyan": 0.22,
+        "cyan": 0.21,
         "magenta": 1.92,
-        "yellow": 3.99,
-        "black": 5.9
+        "yellow": 4.0,
+        "black": 5.98
     },
     "Page 9": {
-        "cyan": 0.1,
+        "cyan": 0.09,
         "magenta": 4.24,
-        "yellow": 9.85,
-        "black": 4.86
+        "yellow": 9.87,
+        "black": 4.93
     },
     "Page 10": {
-        "cyan": 0.07,
+        "cyan": 0.06,
         "magenta": 3.58,
-        "yellow": 8.78,
-        "black": 4.97
+        "yellow": 8.79,
+        "black": 5.05
     },
     "Page 11": {
         "cyan": 0.22,
         "magenta": 4.38,
-        "yellow": 10.43,
-        "black": 4.05
+        "yellow": 10.44,
+        "black": 4.16
     },
     "Page 12": {
         "cyan": 0.03,
-        "magenta": 3.71,
-        "yellow": 9.64,
-        "black": 3.76
+        "magenta": 3.72,
+        "yellow": 9.66,
+        "black": 3.82
     },
     "Page 13": {
         "cyan": 0.0,
         "magenta": 0.0,
         "yellow": 0.0,
-        "black": 1.18
+        "black": 1.21
     }
 }
