@@ -1,0 +1,80 @@
+{
+    "Page 1": {
+        "cyan": 0.93,
+        "magenta": 0.26,
+        "yellow": 0.58,
+        "black": 2.74
+    },
+    "Page 2": {
+        "cyan": 0.0,
+        "magenta": 0.0,
+        "yellow": 0.0,
+        "black": 3.96
+    },
+    "Page 3": {
+        "cyan": 1.27,
+        "magenta": 0.56,
+        "yellow": 1.12,
+        "black": 5.92
+    },
+    "Page 4": {
+        "cyan": 0.33,
+        "magenta": 0.61,
+        "yellow": 0.86,
+        "black": 4.98
+    },
+    "Page 5": {
+        "cyan": 0.35,
+        "magenta": 0.92,
+        "yellow": 1.25,
+        "black": 4.84
+    },
+    "Page 6": {
+        "cyan": 0.16,
+        "magenta": 1.18,
+        "yellow": 1.85,
+        "black": 5.26
+    },
+    "Page 7": {
+        "cyan": 0.51,
+        "magenta": 1.38,
+        "yellow": 1.7,
+        "black": 7.7
+    },
+    "Page 8": {
+        "cyan": 0.22,
+        "magenta": 1.92,
+        "yellow": 3.99,
+        "black": 5.9
+    },
+    "Page 9": {
+        "cyan": 0.1,
+        "magenta": 4.24,
+        "yellow": 9.85,
+        "black": 4.86
+    },
+    "Page 10": {
+        "cyan": 0.07,
+        "magenta": 3.58,
+        "yellow": 8.78,
+        "black": 4.97
+    },
+    "Page 11": {
+        "cyan": 0.22,
+        "magenta": 4.38,
+        "yellow": 10.43,
+        "black": 4.05
+    },
+    "Page 12": {
+        "cyan": 0.03,
+        "magenta": 3.71,
+        "yellow": 9.64,
+        "black": 3.76
+    },
+    "Page 13": {
+        "cyan": 0.0,
+        "magenta": 0.0,
+        "yellow": 0.0,
+        "black": 1.18
+    }
+}
